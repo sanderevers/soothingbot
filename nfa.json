@@ -1,0 +1,21 @@
+{
+  "statecount": 7,
+  "start": 0,
+  "end": [ 0,1,4,6 ],
+  "edges": [
+    { "src": 0, "dst": 0, "symbol": "❄️️" },
+    { "src": 0, "dst": 1, "symbol": "⛄" },
+    { "src": 1, "dst": 2, "symbol": "☃️" },
+    { "src": 0, "dst": 2, "symbol": "☃️" },
+    { "src": 2, "dst": 3, "symbol": "🥶" },
+    { "src": 3, "dst": 4, "symbol": "🧣" },
+    { "src": 3, "dst": 5, "symbol": "🌙" },
+    { "src": 5, "dst": 2, "symbol": "✨" },
+    { "src": 4, "dst": 2, "symbol": "🎄" },
+    { "src": 4, "dst": 3, "symbol": "🌟" },
+    { "src": 0, "dst": 6, "symbol": "✨" },
+    { "src": 1, "dst": 6, "symbol": "🎁" },
+    { "src": 3, "dst": 6, "symbol": "🎁" }
+  ]
+}
+

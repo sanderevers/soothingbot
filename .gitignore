@@ -1,0 +1,16 @@
+.env
+.env.yaml
+
+*.json
+*.dot
+*.png
+*.txt
+!nfa.json
+
+*.sqlite
+*.pyc
+.idea
+instance
+dist
+build
+soothingbot.egg-info
