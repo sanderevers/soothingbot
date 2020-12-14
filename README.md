@@ -1,9 +1,10 @@
 # @soothingbot
 
-🤖 A [Telegram bot](https://core.telegram.org/bots) pretending to be an NFA.<br>
+🤖 A [Telegram bot](https://core.telegram.org/bots) pretending to be an [NFA](nfa.json).<br>
 🙏 Inspired by [@happyautomata](https://twitter.com/happyautomata).<br>
 🐍 Built in Python using [aiohttp](https://docs.aiohttp.org/en/stable/).<br>
-🔧 Mildly over-engineered, playing around with async message processing and dependency injection.
+🔧 Mildly over-engineered, playing around with async message processing and dependency injection.<br>
+💬 [Talk to it](https://t.me/soothingbot) on Telegram!
 
 ![soothingbot in action](soothingbot.webp)
 
